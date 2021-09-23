@@ -16,6 +16,6 @@ To stow the dotfiles:
 
 Windows Terminal changes:
 
-1. Change the starting directory to home `\\wsl$\Ubuntu\home\lewis`
+1. Change the starting directory to home `\\wsl$\Ubuntu\home\anr`
 2. Change colour scheme to One Half Dark
 3. Change font face to Roboto Mono
